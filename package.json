@@ -218,8 +218,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bibek922/delta-project.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bibek922/delta-project/issues"
+  },
+  "homepage": "https://github.com/bibek922/delta-project#readme",
   "description": ""
 }
